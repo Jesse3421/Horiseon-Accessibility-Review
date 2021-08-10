@@ -46,17 +46,6 @@ p {
     font-size: 16px;
 }
 
-/* FOOTER */
-footer {
-    padding: 30px;
-    clear: both;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
-}
-footer h2 {
-    font-size: 20px;
-}
-
 /* HERO */
 .hero {
     height: 800px;
@@ -105,13 +94,12 @@ footer h2 {
     clear: both;
     float: right;
     width: 20%;
-    height: 150%;
+    height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-.benefits article {
-    margin-bottom: 32px;
-    
+.benefits div {
+    margin-bottom: 50px;
 }
 .benefits p {
     color: #ffffff;
@@ -127,3 +115,13 @@ footer h2 {
     max-width: 150px;
 }
 
+/* FOOTER - Not visible in mock-up. Commented it here if you want to use later.
+footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+footer h2 {
+    font-size: 20px;
+}*/
