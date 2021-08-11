@@ -110,7 +110,7 @@ p {
     max-width: 150px;
 }
 
-/* FOOTER - Not visible in mock-up. Commented it here if you want to use later.
+/*FOOTER - Not visible in mock-up. Commented it here if you want to use later.
 footer {
     padding: 30px;
     clear: both;
@@ -120,3 +120,7 @@ footer {
 footer h2 {
     font-size: 20px;
 }*/
+footer { /*this was added to allow some padding at the bottom of the page*/
+    padding: 30px;
+      
+}
